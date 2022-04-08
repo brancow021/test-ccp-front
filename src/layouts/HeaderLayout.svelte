@@ -1,5 +1,5 @@
 <div class="flex justify-between px-4 items-center border h-28 headerCustom">
-    <div class="flex justify-center w-4/12">
+    <div class="flex justify-center w-6/12">
         <img 
             width="172" 
             height="39" 
@@ -28,9 +28,9 @@
         </ul>
     </div>
 
-    <div class="flex justify-end items-center w-4/12">
+    <div class="flex justify-end items-center w-6/12">
         <div class="mx-7">
-            <button class="bg-blue-higlight p-2 rounded-xl">
+            <button class="bg-blue-higlight p-2 rounded-xl w-40">
                 <p class="monserratFont text-white text-lg">
                     Book a demo
                 </p>
